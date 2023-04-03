@@ -26,6 +26,12 @@
           "scroll-behavior"
         ]
       }
+    ],
+    "axe/text-alternatives": [
+      "default",
+      {
+        "image-alt": "off"
+      }
     ]
   }
 }
